@@ -1,0 +1,14 @@
+dependencies:
+  vue: registry.npmmirror.com/vue/2.6.14
+lockfileVersion: 5.2
+packages:
+  registry.npmmirror.com/vue/2.6.14:
+    dev: false
+    name: vue
+    resolution:
+      integrity: sha1-5RqlJQJQ1Wmj+606ilpofWA24jU=
+      registry: https://registry.npm.taobao.org/
+      tarball: https://registry.npmmirror.com/vue/download/vue-2.6.14.tgz
+    version: 2.6.14
+specifiers:
+  vue: 2.6.14
